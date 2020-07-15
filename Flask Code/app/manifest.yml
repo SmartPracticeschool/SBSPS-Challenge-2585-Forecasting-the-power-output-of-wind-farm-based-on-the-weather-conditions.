@@ -1,0 +1,5 @@
+---
+applications:
+ - name: flask-api
+   random-route: true
+   memory: 1500M
