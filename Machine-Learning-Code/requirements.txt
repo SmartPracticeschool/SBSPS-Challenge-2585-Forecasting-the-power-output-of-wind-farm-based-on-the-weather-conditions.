@@ -19,7 +19,7 @@ colorlover==0.3.0
 command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==3.2
 cufflinks==0.17.3
 cycler==0.10.0
 decorator==4.4.2
