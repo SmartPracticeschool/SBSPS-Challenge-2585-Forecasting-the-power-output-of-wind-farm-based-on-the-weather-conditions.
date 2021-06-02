@@ -139,7 +139,7 @@ traitlets==4.3.3
 Twisted==17.9.0
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
