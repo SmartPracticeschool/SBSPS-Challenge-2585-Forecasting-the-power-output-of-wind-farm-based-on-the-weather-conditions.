@@ -136,7 +136,7 @@ torchvision==0.6.1
 tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
-Twisted==17.9.0
+Twisted==22.4.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.22
